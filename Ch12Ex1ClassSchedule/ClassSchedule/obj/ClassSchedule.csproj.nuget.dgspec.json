@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/curtisfisher/Downloads/Ch12Ex1ClassSchedule/ClassSchedule/ClassSchedule.csproj": {}
+    "/Users/curtisfisher/Downloads/Ch13Ex1Bookstore/Ch12Ex1ClassSchedule/ClassSchedule/ClassSchedule.csproj": {}
   },
   "projects": {
-    "/Users/curtisfisher/Downloads/Ch12Ex1ClassSchedule/ClassSchedule/ClassSchedule.csproj": {
+    "/Users/curtisfisher/Downloads/Ch13Ex1Bookstore/Ch12Ex1ClassSchedule/ClassSchedule/ClassSchedule.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/curtisfisher/Downloads/Ch12Ex1ClassSchedule/ClassSchedule/ClassSchedule.csproj",
+        "projectUniqueName": "/Users/curtisfisher/Downloads/Ch13Ex1Bookstore/Ch12Ex1ClassSchedule/ClassSchedule/ClassSchedule.csproj",
         "projectName": "ClassSchedule",
-        "projectPath": "/Users/curtisfisher/Downloads/Ch12Ex1ClassSchedule/ClassSchedule/ClassSchedule.csproj",
+        "projectPath": "/Users/curtisfisher/Downloads/Ch13Ex1Bookstore/Ch12Ex1ClassSchedule/ClassSchedule/ClassSchedule.csproj",
         "packagesPath": "/Users/curtisfisher/.nuget/packages/",
-        "outputPath": "/Users/curtisfisher/Downloads/Ch12Ex1ClassSchedule/ClassSchedule/obj/",
+        "outputPath": "/Users/curtisfisher/Downloads/Ch13Ex1Bookstore/Ch12Ex1ClassSchedule/ClassSchedule/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/curtisfisher/.nuget/NuGet/NuGet.Config"

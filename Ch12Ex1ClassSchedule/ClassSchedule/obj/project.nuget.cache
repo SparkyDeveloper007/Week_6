@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oHRrUWxev0k=",
+  "dgSpecHash": "WL/nZnfKXpM=",
   "success": true,
-  "projectFilePath": "/Users/curtisfisher/Downloads/Ch12Ex1ClassSchedule/ClassSchedule/ClassSchedule.csproj",
+  "projectFilePath": "/Users/curtisfisher/Downloads/Ch13Ex1Bookstore/Ch12Ex1ClassSchedule/ClassSchedule/ClassSchedule.csproj",
   "expectedPackageFiles": [
     "/Users/curtisfisher/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/curtisfisher/.nuget/packages/microsoft.bcl.asyncinterfaces/7.0.0/microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",

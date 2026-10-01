@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <row>
+        <BookId>1</BookId>
+        <Title>1776</Title>
+        <Price>20</Price>
+        <GenreId>history</GenreId>
+    </row>
+    <row>
+        <BookId>2</BookId>
+        <Title>1984</Title>
+        <Price>5.5</Price>
+        <GenreId>scifi</GenreId>
+    </row>
+    <row>
+        <BookId>3</BookId>
+        <Title>And Then There Were None</Title>
+        <Price>4.5</Price>
+        <GenreId>mystery</GenreId>
+    </row>
+    <row>
+        <BookId>4</BookId>
+        <Title>Band of Brothers</Title>
+        <Price>11.5</Price>
+        <GenreId>history</GenreId>
+    </row>
+    <row>
+        <BookId>5</BookId>
+        <Title>Beloved</Title>
+        <Price>10.99</Price>
+        <GenreId>novel</GenreId>
+    </row>
+    <row>
+        <BookId>6</BookId>
+        <Title>Between the World and Me</Title>
+        <Price>13.5</Price>
+        <GenreId>memoir</GenreId>
+    </row>
+    <row>
+        <BookId>7</BookId>
+        <Title>Bossypants</Title>
+        <Price>4.25</Price>
+        <GenreId>memoir</GenreId>
+    </row>
+    <row>
+        <BookId>8</BookId>
+        <Title>Brave New World</Title>
+        <Price>16.25</Price>
+        <GenreId>scifi</GenreId>
+    </row>
+    <row>
+        <BookId>9</BookId>
+        <Title>D-Day</Title>
+        <Price>15</Price>
+        <GenreId>history</GenreId>
+    </row>
+    <row>
+        <BookId>10</BookId>
+        <Title>Down and Out in Paris and London</Title>
+        <Price>12.5</Price>
+        <GenreId>memoir</GenreId>
+    </row>
+    <row>
+        <BookId>11</BookId>
+        <Title>Dune</Title>
+        <Price>8.75</Price>
+        <GenreId>scifi</GenreId>
+    </row>
+    <row>
+        <BookId>12</BookId>
+        <Title>Emma</Title>
+        <Price>9</Price>
+        <GenreId>novel</GenreId>
+    </row>
+    <row>
+        <BookId>13</BookId>
+        <Title>Frankenstein</Title>
+        <Price>6.5</Price>
+        <GenreId>scifi</GenreId>
+    </row>
+    <row>
+        <BookId>14</BookId>
+        <Title>Go Tell it on the Mountain</Title>
+        <Price>10.25</Price>
+        <GenreId>novel</GenreId>
+    </row>
+    <row>
+        <BookId>15</BookId>
+        <Title>Guns, Germs, and Steel</Title>
+        <Price>15.5</Price>
+        <GenreId>history</GenreId>
+    </row>
+    <row>
+        <BookId>16</BookId>
+        <Title>Hunger</Title>
+        <Price>14.5</Price>
+        <GenreId>memoir</GenreId>
+    </row>
+    <row>
+        <BookId>17</BookId>
+        <Title>Murder on the Orient Express</Title>
+        <Price>6.75</Price>
+        <GenreId>mystery</GenreId>
+    </row>
+    <row>
+        <BookId>18</BookId>
+        <Title>Pride and Prejudice</Title>
+        <Price>8.5</Price>
+        <GenreId>novel</GenreId>
+    </row>
+    <row>
+        <BookId>19</BookId>
+        <Title>Rebecca</Title>
+        <Price>10.99</Price>
+        <GenreId>mystery</GenreId>
+    </row>
+    <row>
+        <BookId>20</BookId>
+        <Title>The Art of War</Title>
+        <Price>5.75</Price>
+        <GenreId>history</GenreId>
+    </row>
+    <row>
+        <BookId>21</BookId>
+        <Title>The Girl with the Dragon Tattoo</Title>
+        <Price>8.5</Price>
+        <GenreId>mystery</GenreId>
+    </row>
+    <row>
+        <BookId>22</BookId>
+        <Title>The Handmaid&#39;s Tale</Title>
+        <Price>12.5</Price>
+        <GenreId>scifi</GenreId>
+    </row>
+    <row>
+        <BookId>23</BookId>
+        <Title>The Maltese Falcon</Title>
+        <Price>10.99</Price>
+        <GenreId>mystery</GenreId>
+    </row>
+    <row>
+        <BookId>24</BookId>
+        <Title>The New Jim Crow</Title>
+        <Price>13.75</Price>
+        <GenreId>history</GenreId>
+    </row>
+    <row>
+        <BookId>25</BookId>
+        <Title>The Year of Magical Thinking</Title>
+        <Price>13.5</Price>
+        <GenreId>memoir</GenreId>
+    </row>
+    <row>
+        <BookId>26</BookId>
+        <Title>Wuthering Heights</Title>
+        <Price>9</Price>
+        <GenreId>novel</GenreId>
+    </row>
+    <row>
+        <BookId>27</BookId>
+        <Title>Running With Scissors</Title>
+        <Price>11</Price>
+        <GenreId>memoir</GenreId>
+    </row>
+    <row>
+        <BookId>28</BookId>
+        <Title>Pride and Prejudice and Zombies</Title>
+        <Price>8.75</Price>
+        <GenreId>novel</GenreId>
+    </row>
+    <row>
+        <BookId>29</BookId>
+        <Title>Harry Potter and the Sorcerer&#39;s Stone</Title>
+        <Price>9.75</Price>
+        <GenreId>novel</GenreId>
+    </row>
+</data>
